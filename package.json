@@ -3,9 +3,10 @@
 	"version": "1.0.0",
 	"description": "A Harp App on Azure",
 	"dependencies": {
-		"harp": "0.18.0"
+		"harp": "0.18.1"
 	},
 	"engines": {
-		"node": "4.1.x"
+		"node": "4.1.x",
+		"npm": "3.3.3"
 	}
 }
