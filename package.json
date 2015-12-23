@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "A Harp App on Azure",
 	"dependencies": {
-		"harp": "*"
+		"harp": "0.18.0"
 	},
 	"engines": {
 		"node": "4.1.x"
