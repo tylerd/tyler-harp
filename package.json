@@ -6,6 +6,6 @@
 		"harp": "*"
 	},
 	"engines": {
-		"node": "5.1.x"
+		"node": "4.1.x"
 	}
 }
